@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'\'The survey administrator sets the text of the question that is presented on the fly. Such answer options help in collecting additional data about the options chosen by respondents.\''</initValue>
+      <name>commenttext</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_for_Interactions_with_simple_elements</description>
+   <name>test_case_for_Interactions_with_simple_elements</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>feb91d25-6d4c-44c5-9f28-bb388c56cfb1</testCaseGuid>
+</TestCaseEntity>
