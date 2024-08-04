@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>simple_control_link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85d12dfb-93df-4fe4-b85d-9aee2d7a2e77</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submit_button_002</name>
+   <tag></tag>
+   <elementGuidId>2d891ebb-88ce-417d-b164-377d0eed9e08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@name=&quot;et_builder_submit_button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='et_builder_submit_button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@name=&quot;et_builder_submit_button&quot;]</value>
+      <webElementGuid>b9d269c3-7ced-4428-a767-0e1afb98148d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

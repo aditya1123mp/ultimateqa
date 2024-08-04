@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Common_Scenarios_login_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78ea6f1a-f588-40b9-a860-5317f0393d4c</testCaseGuid>
+</TestCaseEntity>

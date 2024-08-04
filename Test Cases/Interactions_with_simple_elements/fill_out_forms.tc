@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fill_out_forms</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98c9bfe4-3a2c-4e1b-9bad-50e83d879e63</testCaseGuid>
+</TestCaseEntity>
